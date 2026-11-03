@@ -22,7 +22,7 @@ spec:
   giteaUserPasswordSecretName: gitea-user-password
   giteaMigrateRepositories: true
   giteaRepositoriesList:
-  - repo: https://github.com/rhoai-genaiops/experiments.git
+  - repo: https://github.com/rh-bjeon/experiments.git
     name: experiments
     private: true
   - repo: https://github.com/rhoai-genaiops/genaiops-gitops.git
